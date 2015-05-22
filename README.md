@@ -1,2 +1,2 @@
 # A-Star
- ![image](https://github.com/SecondDog/FlowerColoerPickerView/blob/master/screenShoot/Untitled.gif)
+ ![image](https://github.com/SecondDog/A-Star/blob/master/ScreenShot/Untitled.gif)
